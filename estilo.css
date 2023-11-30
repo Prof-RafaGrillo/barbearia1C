@@ -23,5 +23,5 @@ p{
 }
 
 #conteudo{
-    display: inline-block;
+    display: flex;
 }
