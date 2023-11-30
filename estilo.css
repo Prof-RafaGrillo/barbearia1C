@@ -21,3 +21,7 @@ p{
 #lista{
     font-size: 30px;
 }
+
+#conteudo{
+    display: inline-block;
+}
