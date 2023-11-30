@@ -25,3 +25,7 @@ p{
 #conteudo{
     display: flex;
 }
+
+#foto1{
+    width: 50%;
+}
